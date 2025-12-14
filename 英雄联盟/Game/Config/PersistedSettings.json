@@ -121,7 +121,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "15.22.725.785"
+                            "value": "15.24.732.6353"
                         },
                         {
                             "name": "CursorOverride",
@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "EnableScreenShake",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -161,7 +161,7 @@
                         },
                         {
                             "name": "RecommendJunglePaths",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "RelativeTeamColors",
@@ -215,6 +215,10 @@
                         {
                             "name": "DrawHealthBars",
                             "value": "1"
+                        },
+                        {
+                            "name": "DynamicCameraLockMode",
+                            "value": "0"
                         },
                         {
                             "name": "EmotePopupUIDisplayMode",
@@ -290,7 +294,7 @@
                         },
                         {
                             "name": "MinimapEnableAllTimers",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MinimapMoveSelf",
@@ -624,7 +628,7 @@
                         },
                         {
                             "name": "evtCameraLockToggle",
-                            "value": "[y]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtCameraSnap",
